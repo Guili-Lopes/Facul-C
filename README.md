@@ -1,14 +1,14 @@
-Resoluções de Problemas do Beecrowd em C
+# Repositório de Soluções - BeeCrowd 🐝
 
-Este repositório contém uma coleção de soluções desenvolvidas para problemas do site Beecrowd utilizando a linguagem de programação C. Cada arquivo dentro da pasta main representa a solução de um problema específico.
-Estrutura do Repositório
+Bem-vindo ao repositório que contém as minhas soluções para problemas do site [BeeCrowd](https://www.beecrowd.com.br/)!  
+Aqui você encontrará códigos desenvolvidos em **C** como parte de atividades realizadas durante a faculdade, com o objetivo de **aprimorar as habilidades de lógica de programação e resolver problemas computacionais**.
 
-    main/: Esta pasta contém todas as soluções implementadas. Cada arquivo é nomeado de acordo com o número ou o título do problema correspondente no Beecrowd.
+## 🏆 Sobre o BeeCrowd
 
-Tecnologias Utilizadas
+O **BeeCrowd** é uma plataforma de exercícios de programação competitiva, que oferece problemas de diferentes níveis de dificuldade, ideais para desenvolver habilidades em algoritmos e lógica de programação.
 
-    C: Linguagem de programação utilizada para resolver os problemas.
+## 🚀 Tecnologias utilizadas
 
-Objetivo
-
-O objetivo deste repositório é compartilhar as soluções para os problemas propostos no Beecrowd, aplicando lógica de programação, estruturas de dados, e técnicas de otimização.
+- **Linguagem:** C  
+- **Ferramenta de desenvolvimento:** [Visual Studio Code (VSCode)](https://code.visualstudio.com/)  
+- **Compilador:** GCC (através da extensão C/C++ no VSCode) 
